@@ -1,0 +1,14 @@
+{
+    "UserInfo":[
+        {
+            "name":"Lucas",
+            "email":"lucas98@hmail.com",
+            "password":"Luke123#"
+        },
+        {
+            "name":"Luke",
+            "email":"lucas19@hmail.com",
+            "password":"Luke456#"
+        }
+    ]
+}

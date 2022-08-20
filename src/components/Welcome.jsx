@@ -5,11 +5,11 @@ const Welcome = ({ Logout, User }) => {
    const [name] = useState(User);
    const navigate = useNavigate();
 
-   const submitHandler = (e) => {
-      e.preventDefault();
-      Logout();
-      navigate("/form");
-   };
+   // const submitHandler = (e) => {
+   //    e.preventDefault();
+   //    Logout();
+   //    navigate("/form");
+   // };
 
    const submitContinue = (e) => {
       e.preventDefault();
